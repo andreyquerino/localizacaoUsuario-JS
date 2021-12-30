@@ -7,7 +7,7 @@ var request = new XMLHttpRequest();
 ```
 
 Utilizando a API XMLHttpRequest(); é possível enviar requisições HTTP ou HTTPS diretamente para um servidor web e carregar os dados de resposta do servidor diretamente de volta ao script.
-< br>
+<br />
 Próximo passo é usar o método GET para poder pegar as informações do arquivo json do site https://wtfismyip.com/
 
 ```js
