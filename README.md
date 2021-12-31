@@ -10,11 +10,11 @@ Utilizando a API XMLHttpRequest(); é possível enviar requisições HTTP ou HTT
 <br />
 Próximo passo é usar o método GET para poder pegar as informações do arquivo json do site https://wtfismyip.com/
 
-![Captura de tela 2021-12-30 200804](https://user-images.githubusercontent.com/88719652/147795488-9509836c-e351-4f43-9484-ec81b26aae70.png)
-
 ```js
 request.open("GET", "https://wtfismyip.com/json", !0),
 ```
+
+![Captura de tela 2021-12-30 200804](https://user-images.githubusercontent.com/88719652/147795488-9509836c-e351-4f43-9484-ec81b26aae70.png)
 
 Por fim pegando a informação da linha que queremos através do this.status e atribuindo a class "cidade".
 
