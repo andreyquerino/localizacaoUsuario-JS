@@ -1,5 +1,5 @@
 # Detectando-localizacao-website
-JavaScript simples para detectar a localização dos visitas de um website
+Simples javascript para detectar a localização dos visitantes de um website
 
 API
 ```js
